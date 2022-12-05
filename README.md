@@ -1,16 +1,12 @@
-# connection_builder
+# Introduction -- Connection Builder
+A web application for building connection.
 
-A new Flutter project.
+This is for Christmas and New Year.
+I'd like to share this to my friends and some strangers.
 
-## Getting Started
+# Structure
+Frontend: Flutter Web
+Backend: Firebase
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# State Management
+- BLoC
