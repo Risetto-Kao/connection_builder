@@ -10,3 +10,4 @@ Backend: Firebase
 
 # State Management
 - BLoC
+
